@@ -4,7 +4,7 @@ This repository provides R-code accompanying the paper
 
 > Schulz, B. and Lerch, S. (2022). 
 > Aggregating distribution forecasts from deep ensembles.
-> Preprint available at https://arxiv.org/abs/2106.09512.
+> Preprint available at https://arxiv.org/abs/2204.02291.
 
 In particular, code for the implementation of the networks, aggregation methods, simulation study, case study and evaluation is available.
 
